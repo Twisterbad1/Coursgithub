@@ -3,3 +3,6 @@ bonjour test
 ceci est la 2 phrase test branche
 
 exercice pratique 2
+
+
+alors on va crer des lignes
