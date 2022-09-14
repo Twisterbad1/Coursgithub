@@ -3,3 +3,5 @@ bonjour test
 ceci est la 2 phrase test branche
 
 exercice pratique 2
+
+ceci est un comflit
